@@ -1,0 +1,6 @@
+{
+  "name": "MFK Food Supply",
+  "description": "MFK - Restoranlar və şirkətlər üçün B2B topdansatış qida təchizatı. Hər çeşiddə istəyə uyğun fresh məhsullar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
